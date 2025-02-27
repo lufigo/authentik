@@ -114,3 +114,17 @@ storybook-static/
 .wireit
 
 custom-elements.json
+
+xliff/de*
+xliff/en*
+xliff/es*
+xliff/fi*
+xliff/fr*
+xliff/it*
+xliff/ko*
+xliff/nl*
+xliff/pl*
+xliff/pseudo*
+xliff/ru*
+xliff/tr*
+xliff/zh*
