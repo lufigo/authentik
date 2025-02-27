@@ -1,0 +1,4 @@
+make web-i18n-extract
+přidat jazyk do lit-localize.json
+přidat jazyk do definitions.ts
+make docker DOCKER_IMAGE=authentik-cz
